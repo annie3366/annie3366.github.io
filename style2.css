@@ -1,3 +1,9 @@
+.container {
+    margin: auto;
+    width: 75%;
+    float: center;
+}
+
 #left {
     font-size: 20px;
     font-family: 'Crimson Text', serif;
@@ -41,7 +47,7 @@ p {
 }
 
 .spanish {
-    display: none;
+    display:none;
 }
 
 ul {
